@@ -1,5 +1,5 @@
 
-# :octocat: Searchgit
+# :mag_right: Searchgit :octocat:
    
 <p><img src= "https://img.shields.io/static/v1?label=Status&message=Developing&color=green&style=flat"> 
  <img src= "https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow&style=flat&"> 
@@ -31,8 +31,10 @@
 * Handling with error
 
 ## :rocket: Deploy
-- [Deploy](https://alurakut-eight-jet.vercel.app/)
-- [Code](https://github.com/thamiavicente/alurakut)
+- Deploy
+<img src="https://github.com/thamiavicente/searchgit/blob/main/searchgit-deploy.gif" />
+
+- [Code](https://github.com/thamiavicente/searchgit)
 
 ## :warning: Prerequisites
 - [Nodejs ^ 15.5.0](https://nodejs.org/en/)
