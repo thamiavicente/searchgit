@@ -1,70 +1,70 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# :octocat: Searchgit
+   
+<p><img src= "https://img.shields.io/static/v1?label=Status&message=Developing&color=green&style=flat"> 
+ <img src= "https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow&style=flat&"> 
+ <img src= "https://img.shields.io/static/v1?label=Framework&message=React&color=turquoise&style=flat"></p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## :clipboard: Description
+<p>In this project you can search and show the repositories of any github profile. It was made during the Frontend course at Gama Academy</p>
 
-### `yarn start`
+## :scroll: Summary
+* [Description](#clipboard-description)
+* [Class subjects](#ballot_box_with_check-class-subjects)
+* [Deploy](#rocket-deploy)
+* [Prerequisites](#warning-prerequisites)
+* [Frameworks and libs](#books-frameworks-and-libs)
+* [How to run](#arrow_forward-how-to-run)
+* [Problems solution](#interrobang-problems-solution)
+* [License](#lock-license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :ballot_box_with_check: Class subjects
+* Hooks
+* Components
+* Props
+* useState
+* Routers
+* API requests
+* Events
+* Styled components
+* Handling with error
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :rocket: Deploy
+- [Deploy](https://alurakut-eight-jet.vercel.app/)
+- [Code](https://github.com/thamiavicente/alurakut)
 
-### `yarn test`
+## :warning: Prerequisites
+- [Nodejs ^ 15.5.0](https://nodejs.org/en/)
+- [Yarn ^ 1.22.5](https://yarnpkg.com/getting-started/install)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :books: Frameworks and libs
+- [Create React App](https://github.com/facebook/create-react-app)
+- [React](https://pt-br.reactjs.org/)
+- [Axios](https://axios-http.com/docs/intro)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
 
-### `yarn build`
+## :arrow_forward: How to run
+<p>1. Clone the projet and open it</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+git clone https://github.com/thamiavicente/searchgit.git
+cd searchgit
+```
+<p>2. Install all dependencies </p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+yarn install
+```
+<p>3. Start project </p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn start
+```
+<p>4. Access the project's localhost. The default port is [http://localhost:3000](http://localhost:3000)</p>
 
-### `yarn eject`
+## :interrobang: Problems solution
+To see the problems that arose during development and the solutions that we found, visit the [issues](https://github.com/thamiavicente/alurakut/issues)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :lock: License
+<p>Copyright:copyright: 2021 - Thami A. Vicente</p>
